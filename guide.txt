@@ -1,0 +1,12 @@
+Step1:Make repo and clone in local
+step2: Make branch in git 
+step3: git branch to check branch
+step4: git pull to pull branch from github (suppose prabin)
+step5: git branch -a
+step6: git checkout prabin 
+steo7:	git status
+step8: git add abc 
+step9: git commit -m 'first commit'
+step10: git push origin prabin
+
+
